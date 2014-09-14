@@ -1,23 +1,25 @@
-* {
-font-family:Courier New;
-}
-.red {
-font-size:50px;
-color:red;
-}
 p {
 font-size: 24px;
 margin:30px 30px;
 }
+* {
+font-family:Courier New;
+}
 h1 {
 margin:30px 30px;
-}
-ol {
-margin:30px 30px;
-
 }
 a {
 text-decoration:none;
 font-size:30px;
 color:black;
+}
+.head {
+color:red;
+}
+h2 {
+margin:30px 30px;
+}
+img {
+border:black 2px solid;
+margin:0px 30px -20px 30px;
 }
